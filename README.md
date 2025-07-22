@@ -1,2 +1,2 @@
 # My-CS50
-My cs50 problem sets solutions (Just for back up and streak :) )
+My cs50 problem sets solutions (Just for documentation and streak 😊 )
